@@ -3,4 +3,4 @@
 # MazeGame is a game that you need to reach the treasure
 # Dist is for maze game
 # Dist2 is for shooter game
-# smart note is for smart note app
+# Notes_main.py is for smart note app
